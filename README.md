@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbedvivekkarna
+- 👋 Hi, I’m Vivek Karna
 - 👀 I’m interested in Linux Kernel Development
 - 🌱 I’m currently learning Linux Kernel Programming
 - 💞️ I’m looking to collaborate on Linux Kernel Patches
